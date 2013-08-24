@@ -17,4 +17,4 @@ Once separated into the different integer representations it looks like this:
     R 0
     T 131  12D
 
-With the Excel spreadsheet you can enter the three sections separatly to decode them and receive the message in plain English.
+With the Excel spreadsheet you can enter the three sections separatly to decode them and receive the message in plain English. View the screenshots to see how to use the spreadsheet.
