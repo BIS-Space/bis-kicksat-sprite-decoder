@@ -17,4 +17,5 @@ Once separated into the different integer representations it looks like this:
     R 0
     T 131  12D
 
-With the Excel spreadsheet you can enter the three sections separatly to decode them and receive the message in plain English. View the screenshots to see how to use the spreadsheet.
+With the Excel spreadsheet you can enter the three sections separatly to decode them and receive the message in plain English.
+![Screenshot from 2013-08-24 22_04_17.png](https://raw.github.com/BIS-space/bis-kicksat-sprite-decoder/master/doc/screenshots)
