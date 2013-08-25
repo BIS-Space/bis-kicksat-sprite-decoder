@@ -18,4 +18,6 @@ Once separated into the different integer representations it looks like this:
     T 131  12D
 
 With the Excel spreadsheet you can enter the three sections separatly to decode them and receive the message in plain English.
-![Screenshot from 2013-08-24 22_04_17.png](https://raw.github.com/BIS-space/bis-kicksat-sprite-decoder/master/doc/screenshots)
+![Screenshot-S.png](https://raw.github.com/BIS-space/bis-kicksat-sprite-decoder/master/doc/screenshots)
+![Screenshot-R.png](https://raw.github.com/BIS-space/bis-kicksat-sprite-decoder/master/doc/screenshots)
+![Screenshot-T.png](https://raw.github.com/BIS-space/bis-kicksat-sprite-decoder/master/doc/screenshots)
