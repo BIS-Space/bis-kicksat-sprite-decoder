@@ -3,17 +3,17 @@
 
 This is an example of a transmitted message:
 
-    S000C042900CA7R0T13112D
+    S000C043900CA7R0T13112D
     
 Once separated into the three sections, with the help of the header code it looks like this:
 
-    S000C042900CA7
+    S000C043900CA7
     R0
     T13112D
 
 Once separated into the different integer representations it looks like this:
 
-    S 000C  0429  00CA  7
+    S 000C  0439  00CA  7
     R 0
     T 131  12D
 
